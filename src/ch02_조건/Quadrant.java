@@ -1,4 +1,4 @@
-package ch02_If;
+package ch02_조건;
 
 import java.util.Scanner;
 
